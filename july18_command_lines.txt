@@ -1,0 +1,12 @@
+  363  git add .
+  364  git commit -m "Add mocked job interview assignment to Git"
+  365  git remote add origin https://github.com/muxingyuan/mockup_assignment.git
+  366  git push -u -f origin master
+  367  git config user.name "muxingyuan"
+  368  git push -u -f origin master
+  369  history
+  370  history tail 10
+  371  history tail -10
+  372  history 10
+  373  history 12
+  374  history 12 > july18_command_lines.txt

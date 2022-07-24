@@ -1,0 +1,6 @@
+  410  git init
+  417  git pull
+  418  git add .
+  420  git commit -m "EDA"
+  421  git push
+  423  history 20 > july24_command_lines.txt
